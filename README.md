@@ -1,6 +1,6 @@
 # DataScienceGuidedCapstone
 
-Hello students!
+Hello students!!!
 Welcome to the Data Science Guided Capstone! 
 
 ## Getting Started
